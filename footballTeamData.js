@@ -15,7 +15,7 @@ const leagues = {
                     {
                         name: "Эдерсон",
                         nomber: 31,
-                        position: "Вратар",
+                        position: "Вратарь",
                         redCards: 0,
                         yellowCards: 3,
                         goalCount: 0,
@@ -96,7 +96,7 @@ const leagues = {
                     {
                         name: "Рахим Стерлинг",
                         nomber: 7,
-                        position: "Нападающи",
+                        position: "Нападающий",
                         redCards: 0,
                         yellowCards: 4,
                         goalCount: 10,
@@ -105,7 +105,7 @@ const leagues = {
                     {
                         name: "Габриэл Жезус",
                         nomber: 9,
-                        position: "Нападающи",
+                        position: "Нападающий",
                         redCards: 0,
                         yellowCards: 2,
                         goalCount: 9,
@@ -127,7 +127,7 @@ const leagues = {
                     {
                         name: "Дин Хендерсон",
                         nomber: 13,
-                        position: "Вратар",
+                        position: "Вратарь",
                         redCards: 0,
                         yellowCards: 3,
                         goalCount: 0,
@@ -136,7 +136,7 @@ const leagues = {
                     {
                         name: "ЗакГарри Магуайр ",
                         nomber: 5,
-                        position: "Защитники",
+                        position: "Защитник",
                         redCards: 0,
                         yellowCards: 10,
                         goalCount: 2,
@@ -145,7 +145,7 @@ const leagues = {
                     {
                         name: "Люк Шоу ",
                         nomber: 23,
-                        position: "Защитники",
+                        position: "Защитник",
                         redCards: 0,
                         yellowCards: 8,
                         goalCount: 1,
@@ -154,7 +154,7 @@ const leagues = {
                     {
                         name: " Алекс Теллес ",
                         nomber: 27,
-                        position: "Защитники",
+                        position: "Защитник",
                         redCards: 0,
                         yellowCards: 0,
                         goalCount: 0,
@@ -163,7 +163,7 @@ const leagues = {
                     {
                         name: "Аарон Ван-Биссака",
                         nomber: 29,
-                        position: "Защитники",
+                        position: "Защитник",
                         redCards: 0,
                         yellowCards: 3,
                         goalCount: 2,
@@ -172,7 +172,7 @@ const leagues = {
                     {
                         name: "Поль Погба",
                         nomber: 6,
-                        position: "Полузащитники",
+                        position: "Полузащитник",
                         redCards: 0,
                         yellowCards: 3,
                         goalCount: 3,
@@ -181,7 +181,7 @@ const leagues = {
                     {
                         name: "Фред",
                         nomber: 17,
-                        position: "Полузащитники",
+                        position: "Полузащитник",
                         redCards: 0,
                         yellowCards: 5,
                         goalCount: 1,
@@ -190,7 +190,7 @@ const leagues = {
                     {
                         name: " Неманья Матич",
                         nomber: 31,
-                        position: "Полузащитники",
+                        position: "Полузащитник",
                         redCards: 0,
                         yellowCards: 2,
                         goalCount: 0,
@@ -199,7 +199,7 @@ const leagues = {
                     {
                         name: " Эдинсон Кавани",
                         nomber: 7,
-                        position: "Нападающие",
+                        position: "Нападающий",
                         redCards: 0,
                         yellowCards: 5,
                         goalCount: 10,
@@ -208,7 +208,7 @@ const leagues = {
                     {
                         name: " Антони Марcьяль",
                         nomber: 9,
-                        position: "Нападающие",
+                        position: "Нападающий",
                         redCards: 1,
                         yellowCards: 0,
                         goalCount: 4,
@@ -217,7 +217,7 @@ const leagues = {
                     {
                         name: " Маркус Рэшфорд",
                         nomber: 10,
-                        position: "Нападающие",
+                        position: "Нападающий",
                         redCards: 0,
                         yellowCards: 4,
                         goalCount: 11,
@@ -239,7 +239,7 @@ const leagues = {
                     {
                         name: "Каспер Шмейхель",
                         nomber: 1,
-                        position: "Вратар",
+                        position: "Вратарь",
                         redCards: 0,
                         yellowCards: 0,
                         goalCount: 0,
@@ -284,7 +284,7 @@ const leagues = {
                     {
                         name: "Юри Тилеманс",
                         nomber: 8,
-                        position: "Полузащитники",
+                        position: "Полузащитник",
                         redCards: 0,
                         yellowCards: 6,
                         goalCount: 6,
@@ -293,7 +293,7 @@ const leagues = {
                     {
                         name: "Джеймс Мэддисон",
                         nomber: 10,
-                        position: "Полузащитники",
+                        position: "Полузащитник",
                         redCards: 0,
                         yellowCards: 4,
                         goalCount: 8,
@@ -302,7 +302,7 @@ const leagues = {
                     {
                         name: "Марк Олбрайтон",
                         nomber: 11,
-                        position: "Полузащитники",
+                        position: "Полузащитник",
                         redCards: 0,
                         yellowCards: 2,
                         goalCount: 1,
@@ -311,7 +311,7 @@ const leagues = {
                     {
                         name: "Джейми Варди",
                         nomber: 9,
-                        position: "Нападающие",
+                        position: "Нападающий",
                         redCards: 0,
                         yellowCards: 1,
                         goalCount: 15,
@@ -320,7 +320,7 @@ const leagues = {
                     {
                         name: "Келечи Ихеаначо",
                         nomber: 14,
-                        position: "Нападающие",
+                        position: "Нападающий",
                         redCards: 1,
                         yellowCards: 1,
                         goalCount: 12,
@@ -329,7 +329,7 @@ const leagues = {
                     {
                         name: "Айосе Перес",
                         nomber: 17,
-                        position: "Нападающие",
+                        position: "Нападающий",
                         redCards: 0,
                         yellowCards: 2,
                         goalCount: 2,
