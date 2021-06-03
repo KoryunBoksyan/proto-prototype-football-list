@@ -18,7 +18,7 @@ const leagues = {
                         position: "Вратарь",
                         redCards: 0,
                         yellowCards: 3,
-                        goalCount: 0,
+                        goalCount: 100,
                         matchCount: 36,
                     },
                     {
@@ -166,7 +166,7 @@ const leagues = {
                         position: "Защитник",
                         redCards: 0,
                         yellowCards: 3,
-                        goalCount: 2,
+                        goalCount: 100,
                         matchCount: 34,
                     },
                     {
@@ -259,7 +259,7 @@ const leagues = {
                         nomber: 3,
                         position: "Защитник",
                         redCards: 0,
-                        yellowCards: 7,
+                        yellowCards: 27,
                         goalCount: 0,
                         matchCount: 28,
                     },
@@ -456,7 +456,7 @@ const leagues = {
         drawCount: 9,
         louseCount: 9,
         scoredGoal: 68,
-        missedGoal: 42,
+        missedGoal: 50,
         point: 69,
         coach: 'Юрген Клопп',
         players: [
@@ -473,7 +473,7 @@ const leagues = {
                         name: 'Вирджил ван Дейк',
                         nomber: 4,
                         position: 'Защитник',
-                        redCards: 0,
+                        redCards: 15,
                         yellowCards: 1,
                         goalCount: 1,
                         matchCount: 5
@@ -554,7 +554,7 @@ const leagues = {
                         name: 'Садио Мане',
                         nomber: 10,
                         position: 'Нападающий',
-                        redCards: 0,
+                        redCards: 5,
                         yellowCards: 3,
                         goalCount: 11,
                         matchCount: 35
